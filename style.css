@@ -1,0 +1,139 @@
+body 
+{
+    background-color: rgb(245, 214, 174);
+    font-size: 100%;
+    margin: 1%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#maintag
+{
+    font-size:x-large;
+}
+
+header
+{
+    margin-bottom: 1%;
+    
+}
+
+.newproduct
+{
+    float: right; 
+    padding-top: 2.5%;
+}
+
+a
+{
+    text-decoration: none;
+    color: rgb(41, 34, 138);
+}
+
+nav
+{
+    text-align: center;
+    /* color: green; */
+    font-size:120%;
+    font-weight: bold;
+    /* background-color: rgb(141, 147, 153);*/
+    background-color: rgb(131, 189, 131); 
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+nav a
+{
+    width: 22%;
+    display: inline-block;
+    font-size:large;
+    background-color: rgb(113, 192, 113);
+}
+
+.header_title
+{
+    /* background-color: mediumslateblue; */
+    display: inline-block;
+    margin-bottom: 1%;
+}
+
+.sections1
+{
+    /* background-color: rgb(63, 243, 144); */
+    text-align: center;
+    width: 33%;
+    display: inline-block;
+
+    margin-bottom: 10px;
+    /* border: dashed 0.5px  rgb(221, 158, 126); */
+}
+
+.sections2
+{
+    /* background-color: rgb(80, 211, 139); */
+    text-align: center;
+    width: 33%;
+    display: inline-block;
+
+    margin-bottom: 10px;
+    /* border: dashed 0.5px  rgb(221, 158, 126); */
+}
+
+.section_about
+{
+    clear: both;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.links_lists
+{
+    display: inline-block;
+}
+
+
+details
+{
+    font-style: italic;
+}
+
+summary
+{
+    font-style: normal;
+}
+
+footer
+{
+    text-align: center;
+    clear: both;
+}
+
+#form_id
+{
+    line-height: 220%;
+    font-size: large;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.form_button
+{
+    font-size: 15px;
+    background-color: rgb(54, 212, 218);
+}
+
+.Footer
+{
+    padding-top: 25%;
+}
+
+#allProDiv
+{
+    display: block;
+    text-align: center;
+}
+
+.eachPro
+{
+    margin-top: 3%;
+    margin-top: 3%;
+}
