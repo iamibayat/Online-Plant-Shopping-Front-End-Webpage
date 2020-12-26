@@ -1,0 +1,2 @@
+# Online-Plant-Shopping-Front-End-Webpage
+This is a webpage of an online plant shopping, where users can get to see all the plant products, their prices and description and they can easily add them to cart as well and view the product for details. Admin can also add various products and delete as well, there are options available as a form. Users can contact as well with the owner for more details.
